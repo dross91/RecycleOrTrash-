@@ -1,0 +1,93 @@
+{
+  "1": {
+    "name": "PET",
+    "fullName": "Polyethylene Terephthalate",
+    "verdict": "recycle",
+    "guidance": "Rinse it out and remove the cap (recycle the cap separately if your program takes it).",
+    "examples": ["Water & soda bottles", "Salad dressing bottles", "Peanut butter jars"],
+    "note": "Accepted by nearly all curbside programs.",
+    "funFacts": [
+      "PET is the most widely recycled plastic in the world.",
+      "Recycled PET (rPET) is often spun into polyester fiber for fleece jackets and carpet.",
+      "A PET bottle can take around 450 years to decompose in a landfill."
+    ]
+  },
+  "2": {
+    "name": "HDPE",
+    "fullName": "High-Density Polyethylene",
+    "verdict": "recycle",
+    "guidance": "Rinse it out. Caps can usually stay on.",
+    "examples": ["Milk jugs", "Detergent & shampoo bottles", "Butter tubs"],
+    "note": "Accepted by nearly all curbside programs.",
+    "funFacts": [
+      "HDPE can be recycled up to 10 times before its quality degrades too much.",
+      "It's resistant to many chemicals, which is why it's used for detergent and solvent containers.",
+      "Recycled HDPE often becomes plastic lumber, pipes, or playground equipment."
+    ]
+  },
+  "3": {
+    "name": "PVC",
+    "fullName": "Polyvinyl Chloride",
+    "verdict": "trash",
+    "guidance": "Not accepted curbside — it can contaminate other recyclables.",
+    "examples": ["Pipes", "Vinyl siding", "Some cling wraps & blister packaging"],
+    "note": "A few specialty recyclers take PVC — check local hazardous/special waste programs.",
+    "funFacts": [
+      "PVC is sometimes nicknamed 'the poison plastic' because it can release harmful chemicals when burned.",
+      "It's the third most-produced plastic in the world, mostly for construction materials.",
+      "Its chlorine content makes it difficult to recycle alongside other plastics, which is why so few facilities take it."
+    ]
+  },
+  "4": {
+    "name": "LDPE",
+    "fullName": "Low-Density Polyethylene",
+    "verdict": "trash",
+    "guidance": "Skip the curbside bin — take clean, dry film plastic to a store drop-off instead.",
+    "examples": ["Plastic shopping bags", "Bread bags", "Shrink wrap", "Squeezable bottles"],
+    "note": "Many grocery stores collect #4 bags and film for recycling even though curbside won't.",
+    "funFacts": [
+      "LDPE was the first type of polyethylene ever developed, back in 1933.",
+      "Its flexibility and water resistance are why it's the go-to plastic for bags and wraps.",
+      "A single plastic bag can take up to 20 years to break down outdoors."
+    ]
+  },
+  "5": {
+    "name": "PP",
+    "fullName": "Polypropylene",
+    "verdict": "recycle",
+    "guidance": "Rinse it out. Double-check your local program accepts #5 before bagging it with recyclables.",
+    "examples": ["Yogurt cups", "Medicine bottles", "Bottle caps", "Takeout containers"],
+    "note": "Accepted in many areas but not universal — some towns still landfill #5.",
+    "funFacts": [
+      "Polypropylene has a high melting point, which is why it's the plastic used for microwave-safe containers.",
+      "It's the second most widely produced plastic in the world.",
+      "Bottle caps are almost always PP, even when the bottle itself is a different plastic — worth separating them before recycling."
+    ]
+  },
+  "6": {
+    "name": "PS",
+    "fullName": "Polystyrene",
+    "verdict": "trash",
+    "guidance": "Not accepted curbside, especially foam forms — it breaks apart and contaminates loads.",
+    "examples": ["Foam cups & takeout clamshells", "Packing peanuts", "Disposable cutlery"],
+    "note": "A few specialty drop-off programs recycle rigid (non-foam) #6 — foam almost never.",
+    "funFacts": [
+      "Foam polystyrene is roughly 95% air, which is what makes it such a good insulator.",
+      "It can take 500+ years to decompose in a landfill.",
+      "Several cities and states have banned foam takeout containers outright because they're so hard to recycle."
+    ]
+  },
+  "7": {
+    "name": "Other",
+    "fullName": "Miscellaneous (often polycarbonate or bioplastic blends)",
+    "verdict": "trash",
+    "guidance": "Mixed or unlabeled resins usually aren't recyclable curbside.",
+    "examples": ["Large water cooler bottles", "Some reusable bottles", "Multi-layer packaging"],
+    "note": "A small number of #7 items (like certain large bottles) have specialty take-back programs.",
+    "funFacts": [
+      "#7 is a catch-all category for any resin that doesn't fit cleanly into 1–6, including bioplastics.",
+      "Some #7 plastics contain BPA, a chemical many reusable bottle brands now deliberately avoid.",
+      "Because it's such a mixed bag, almost no curbside facility can sort or process #7 material."
+    ]
+  }
+}
